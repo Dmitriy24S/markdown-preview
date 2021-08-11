@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Markdown Preview Project
+
+Created with CSS, Bootstrap, React
+
+[Live Demo](https://dmitriy24s.github.io/markdown-preview/) 👈
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
