@@ -1,5 +1,7 @@
 # Markdown Preview Project
 
+![Design preview for Markdown Previewer](./design-preview/design-preview.png)
+
 Created with CSS, Bootstrap, React
 
 [Live Demo](https://dmitriy24s.github.io/markdown-preview/) 👈
